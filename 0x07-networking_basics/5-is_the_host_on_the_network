@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# By Apprentice Developer
 # Is the host on the network
 # Accepts a string as an argument IP and Ping the IP 5 times
 
